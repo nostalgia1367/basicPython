@@ -1,0 +1,6 @@
+#config.py
+
+CONSUMER_KEY= 'hhdWRkXc9p6qRbzcNGNNYhQio'
+CONSUMER_SECRET = '4drkYDzcwYk5dWsGaAxCV6Gi95sHet9WTgnrqTLsSdMUOZdjNh'
+ACCESS_TOKEN_KEY =  '2470701600-B3Sqgl7qhyITQfQitlUeLuSl6wuAm6hsgxG0KHp'
+ACCESS_TOKEN_SECRET= 'KwrYkaieduvt0gp8gpelUPjPUxi1xkUF5HMmptv1iyXBp'
