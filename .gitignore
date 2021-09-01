@@ -2,6 +2,33 @@
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,svn,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,svn,git
 
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
 ### Eclipse ###
 .metadata
 bin/
